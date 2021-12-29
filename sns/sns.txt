@@ -1,5 +1,5 @@
 Sns- simple notification Service
 
-SNS is used to notify subscribers.
+SNS is used to notify youtubers.
 
 Cloud watch alarms,EC2 instance changes notifications.
