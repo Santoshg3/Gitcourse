@@ -1,0 +1,5 @@
+Sns- simple notification Service
+
+SNS is used to notify subscribers.
+
+Cloud watch alarms,EC2 instance changes notifications.
