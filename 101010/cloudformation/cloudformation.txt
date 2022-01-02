@@ -1,0 +1,4 @@
+Cloud formation is a platform where code to infrastructure a project.
+
+Now terraform is used insted of cloud formation.
+
